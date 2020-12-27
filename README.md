@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
 ----
 
-Testing Git Status
+First test repo
